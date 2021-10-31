@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# TravelBuddy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live website [TravelBuddy](https://travel-buddy-2624f.web.app/home).
+
+## Functionalities
+
+- This is a travel webiste.
+- User can purchase any package.
+- User must be logged in to purchase anything.
+- Admin can approve or delete any purchase.
+- Admin can add or update a service.
 
 ## Available Scripts
 
