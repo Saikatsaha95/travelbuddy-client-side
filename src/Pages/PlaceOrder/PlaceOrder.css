@@ -1,0 +1,17 @@
+.placeorder-form form input {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.placeorder-form form {
+  margin-top: 60px;
+  background-color: gray;
+  color: black;
+  padding: 20px;
+}
+
+.title-text {
+  margin-top: 50px;
+  font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.placeorder-form form input {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.placeorder-form form {
+  margin-top: 60px;
+  background-color: rgba(255, 188, 80, 0.685);
+  color: black;
+  padding: 20px;
+}
+
+.title-text {
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+.placeorder-form form input:last-child {
+  background-color: rgb(223, 8, 72);
+}
