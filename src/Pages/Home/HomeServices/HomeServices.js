@@ -11,7 +11,6 @@ const HomeServices = () => {
   }, []);
   return (
     <div>
-      <h2>This is home services</h2>
       <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
         {allServices.map((singleService) => (
           <ServiceCard

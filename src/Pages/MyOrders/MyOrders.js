@@ -47,7 +47,7 @@ const MyOrders = () => {
 
   return (
     <div className="container myorder-area">
-      <h2>This is my orders</h2>
+      <h2 className="text-center text-white">Your orders</h2>
       <div className="table-responsive">
         <table className="table text-center table-success">
           <thead>

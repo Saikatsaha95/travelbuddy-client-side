@@ -38,8 +38,6 @@ const ManageAllOrders = () => {
 
   return (
     <div className="container manageorder-area">
-      <h2>This is manage all orders</h2>
-
       <div className="table-responsive">
         <table className="table text-center table-success">
           <thead>
